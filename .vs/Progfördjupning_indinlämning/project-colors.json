@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ab3dfd32-38ab-42a6-982c-62464d03b352": {
+      "ProjectGuid": "ab3dfd32-38ab-42a6-982c-62464d03b352",
+      "DisplayName": "Progfördjupning_indinlämning",
+      "ColorIndex": 0
+    },
+    "bf317798-89ac-4924-a68b-2c8268750555": {
+      "ProjectGuid": "bf317798-89ac-4924-a68b-2c8268750555",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 1
+    },
+    "82c495e9-6887-46e0-87f9-bf8225859204": {
+      "ProjectGuid": "82c495e9-6887-46e0-87f9-bf8225859204",
+      "DisplayName": "TestForCalc",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
