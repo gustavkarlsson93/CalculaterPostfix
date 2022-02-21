@@ -14,12 +14,12 @@ public class Program
         string choice = Console.ReadLine();
         choice = choice.ToLower();
 
-        Calculator.EasterEggDetector(choice);
+        CalculatorInput.EasterEggDetector(choice);
         while(choice != "m" && choice != "miniräknare" && choice != "t" && choice != "temp")
         {
             Console.WriteLine($"Du skrev {choice} detta var ej ett alternativ. Försök igen.");
             choice = Console.ReadLine();
-            Calculator.EasterEggDetector(choice);
+            CalculatorInput.EasterEggDetector(choice);
         }
 
         Console.Clear();
@@ -27,25 +27,25 @@ public class Program
 
         if (choice == "m" || choice == "miniräknare")
         {
-        string inputCalc = Calculator.Input();
-        List<string> infixList = Calculator.StringConverter(inputCalc);
-        List<string> outfixList = Calculator.PostfixConverter(infixList);
-        decimal result = Calculator.Calculations(outfixList);
+        string inputCalc = CalculatorInput.Input();
+        List<string> infixList = StringConverter.StringToList(inputCalc);
+        List<string> outfixList = InfixToPostfix.PostfixConverter(infixList);
+        decimal result = Calculations.Calculator(outfixList);
         Console.WriteLine(result);
         }
 
         else if (choice == "t" || choice == "temp")
         {
 
-        (string input, string inputTemp) = TempConverter.InputTempConverter();
+        (string input, string inputTemp) = TempInputs.InputTempConverter();
         decimal tempResult = 0;
         if (input == "c" || input == "celcius")
         {
-            tempResult = TempConverter.ConvertToCelcius(inputTemp);
+            tempResult = TempConverters.ConvertToCelcius(inputTemp);
         }
         else if (input == "f" || input == "fahrenheit")
         {
-            tempResult = TempConverter.ConvertToFahrenheit(inputTemp);
+            tempResult = TempConverters.ConvertToFahrenheit(inputTemp);
         }
 
         string tempScale = "";
@@ -62,10 +62,6 @@ public class Program
         }
         Console.WriteLine($"{inputTemp} {fromTempScale} = {tempResult} {tempScale}");
         }
-
-
-
-        
 
         Console.ReadKey();
     }
