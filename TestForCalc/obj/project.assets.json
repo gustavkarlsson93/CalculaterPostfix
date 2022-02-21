@@ -5973,26 +5973,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gustav Karlsson\\.nuget\\packages\\": {}
+    "/Users/gustavkarlsson/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustav Karlsson\\codeprojects\\ProgrammerinFördjupning\\Vecka4\\Progfördjupning_indinlämning\\TestForCalc\\TestForCalc.csproj",
+      "projectUniqueName": "/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/TestForCalc/TestForCalc.csproj",
       "projectName": "TestForCalc",
-      "projectPath": "C:\\Users\\Gustav Karlsson\\codeprojects\\ProgrammerinFördjupning\\Vecka4\\Progfördjupning_indinlämning\\TestForCalc\\TestForCalc.csproj",
-      "packagesPath": "C:\\Users\\Gustav Karlsson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustav Karlsson\\codeprojects\\ProgrammerinFördjupning\\Vecka4\\Progfördjupning_indinlämning\\TestForCalc\\obj\\",
+      "projectPath": "/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/TestForCalc/TestForCalc.csproj",
+      "packagesPath": "/Users/gustavkarlsson/.nuget/packages/",
+      "outputPath": "/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/TestForCalc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gustav Karlsson\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/gustavkarlsson/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6047,7 +6045,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

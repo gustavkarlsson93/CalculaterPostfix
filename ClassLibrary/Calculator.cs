@@ -14,8 +14,8 @@ namespace ClassLibrary
             string input = Console.ReadLine();
             EasterEggDetector(input);
             return input;
-
         }
+
         public static void EasterEggDetector(string input)
         {
             input = input.ToLower();
@@ -24,6 +24,7 @@ namespace ClassLibrary
                 Console.WriteLine("Nothing happens");
             }
         }
+
         public static List<string> StringConverter (string input)
         {   //Array of operators.
             char[] splitOn = { '+', '-', '*', '/', '^', '(', ')'};
@@ -56,10 +57,11 @@ namespace ClassLibrary
                 {
                     input = input.Remove(0, 1);
                 }
-            //If last item is operator removes the whitespace.
+
             //If we don't we will get argumentexception out of range in when we remove double whitespace.
              if (input[input.Length-1] == ' ')
                 input = input.Remove(input.Length-1, 1);
+
             //removes 1 whitespace if there is two in a row. (Happens when you have 2 
             //operators in a row). If we have 2 whitespace in a argumentexeption out of range will happen in calc.
             for (int i = 0; i < input.Length; i++)
@@ -70,9 +72,23 @@ namespace ClassLibrary
                     i--;
                 }
             }
-            
+            int nextItem = 0;
+            for (int i = 0; i < input.Length-2; i++)
+            {
+                nextItem = i + 2;
+                foreach (var item in splitOn)
+                {
+                    if (input[i] == item && input[nextItem] == '-')
+                    {
+                        input = input.Remove(i+3, 1);
+                    }
+                }
+            }
+            Console.WriteLine(input);
+            Console.ReadKey();
             //Splits the string into a List<string> to facilitate postfix conversion.
             List<string> infixList = new(input.Split(" "));
+            
             
             foreach (var item in infixList)
             {
@@ -148,12 +164,6 @@ namespace ClassLibrary
                         postfix.Add(temp);
                     }
                 }
-            foreach (var item in infixList)
-            {
-                Console.WriteLine(item);
-            }
-            Console.WriteLine("------");
-            Console.ReadKey();
             foreach (var item in postfix)
             {
                 Console.WriteLine(item);

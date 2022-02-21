@@ -1,12 +1,24 @@
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\bin\Debug\net6.0\ref\ClassLibrary.dll
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
-C:\Users\Gustav Karlsson\codeprojects\ProgrammerinFördjupning\Vecka4\Progfördjupning_indinlämning\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/bin/Debug/net6.0/ClassLibrary.deps.json
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/bin/Debug/net6.0/ClassLibrary.dll
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/bin/Debug/net6.0/ref/ClassLibrary.dll
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/bin/Debug/net6.0/ClassLibrary.pdb
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.AssemblyReference.cache
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/obj/Debug/net6.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfoInputs.cache
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfo.cs
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.CoreCompileInputs.cache
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/obj/Debug/net6.0/ClassLibrary.dll
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/obj/Debug/net6.0/ref/ClassLibrary.dll
+C:/Users/Gustav Karlsson/codeprojects/ProgrammerinFördjupning/Vecka4/Progfördjupning_indinlämning/ClassLibrary/obj/Debug/net6.0/ClassLibrary.pdb
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/bin/Debug/net6.0/ClassLibrary.deps.json
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/bin/Debug/net6.0/ClassLibrary.dll
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/bin/Debug/net6.0/ref/ClassLibrary.dll
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/bin/Debug/net6.0/ClassLibrary.pdb
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.AssemblyReference.cache
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/obj/Debug/net6.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfoInputs.cache
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfo.cs
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/obj/Debug/net6.0/ClassLibrary.dll
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/obj/Debug/net6.0/ref/ClassLibrary.dll
+/Users/gustavkarlsson/Projects/CalculatorPostfix/CalculaterPostfix/ClassLibrary/obj/Debug/net6.0/ClassLibrary.pdb
